@@ -3,6 +3,7 @@ import { Navbar, NavbarBrand } from 'reactstrap';
 import Directory from './components/DirectoryCompontent';
 import './App.css';
 import { CAMPSITES } from './shared/campsites';
+import CampsiteInfo from './components/CampsiteInfoComponent';
 
 class App extends Component {
   constructor(props) {

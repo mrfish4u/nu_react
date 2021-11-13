@@ -1,3 +1,4 @@
+import Directory from "../components/DirectoryCompontent";
 export const CAMPSITES = [
     {
         id: 0,
